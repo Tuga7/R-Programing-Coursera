@@ -1,6 +1,6 @@
 ## R Programming Quiz 1
 #load quiz data
-data <- read.csv("C:/Users/jeffthatcher/Cloud Drive/CourseERA/2_R_Programming/hw1_data.csv")
+data <- read.csv("hw1_data.csv")
 
 #In the dataset provided for this Quiz, what are the column names of the dataset?
 colnames(data)
